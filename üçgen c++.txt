@@ -1,0 +1,14 @@
+﻿'ConsoleApplication19.exe' (Win32): 'C:\Users\LENOVO\source\repos\ConsoleApplication19\Debug\ConsoleApplication19.exe' yüklendi. Semboller yüklendi.
+'ConsoleApplication19.exe' (Win32): 'C:\Windows\SysWOW64\ntdll.dll' yüklendi. 
+'ConsoleApplication19.exe' (Win32): 'C:\Windows\SysWOW64\kernel32.dll' yüklendi. 
+'ConsoleApplication19.exe' (Win32): 'C:\Windows\SysWOW64\KernelBase.dll' yüklendi. 
+'ConsoleApplication19.exe' (Win32): 'C:\Windows\SysWOW64\msvcp140d.dll' yüklendi. 
+'ConsoleApplication19.exe' (Win32): 'C:\Windows\SysWOW64\vcruntime140d.dll' yüklendi. 
+'ConsoleApplication19.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbased.dll' yüklendi. 
+0x1654 iş parçacığı 0 (0x0) koduyla çıktı.
+'ConsoleApplication19.exe' (Win32): 'C:\Windows\SysWOW64\kernel.appcore.dll' yüklendi. 
+'ConsoleApplication19.exe' (Win32): 'C:\Windows\SysWOW64\msvcrt.dll' yüklendi. 
+'ConsoleApplication19.exe' (Win32): 'C:\Windows\SysWOW64\rpcrt4.dll' yüklendi. 
+0x3d28 iş parçacığı 0 (0x0) koduyla çıktı.
+0x2838 iş parçacığı 0 (0x0) koduyla çıktı.
+'[2796] ConsoleApplication19.exe' programı 0 (0x0) koduyla çıktı.
