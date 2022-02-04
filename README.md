@@ -1,1 +1,1 @@
-# exam-for-c-
+# example-for-c-
